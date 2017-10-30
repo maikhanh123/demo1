@@ -9,7 +9,7 @@ app.get("/", function (req, res) {
 });
 
 app.listen(2100, function () {
-    console.log("server start !!! ");
+    console.log("server start !!! http://localhost:2100/ " );
 });
 
 
